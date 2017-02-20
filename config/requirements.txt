@@ -1,0 +1,6 @@
+Django
+gunicorn
+psycopg2
+gmusicapi
+pytz
+dj-static
